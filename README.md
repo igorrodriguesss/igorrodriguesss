@@ -13,14 +13,14 @@
 </div>
   
 <br>
-  
+
 
 
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/officel/48/ffffff/php-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color-glass/48/000000/css.png"/>
-<img src="https://img.icons8.com/ios-filled/50/ffffff/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/ffffff/css3.png"/>
 
   </div>
   
