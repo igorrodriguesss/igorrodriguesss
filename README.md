@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estudando Python
 - 🌱 Focado em começar a aprender Django
-- 
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <br>
   <div>
@@ -14,7 +14,7 @@
   
 <br>
   
-<div><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
