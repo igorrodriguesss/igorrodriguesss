@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estudando Python
-- 🌱 Focado em começar a aprender Django
+- 🌱 Focado em começar a aprender framework Django
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <br>
