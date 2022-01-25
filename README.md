@@ -1,7 +1,7 @@
 ### Oi, Meu nome é Igor.
 
 
-- 🌱 Focado em entrar no mercado de trabalho!
+- 🌱 Focado em me desenvolver como programador.
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <br>
