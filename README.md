@@ -1,7 +1,9 @@
 ### Oi, Meu nome é Igor.
 
 
-- 🌱 Focado em me desenvolver como programador.
+- Focado em me desenvolver como programador.
+- Atualmente estudando NodeJS
+- Desenvolvendo diversos projetos 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <br>
