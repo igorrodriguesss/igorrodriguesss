@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrodriguesss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
-
+###Tecnologias:
 
 <!-- <div align="center"> -->
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
