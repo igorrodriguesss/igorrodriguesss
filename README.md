@@ -2,7 +2,7 @@
 
 - Focado em me desenvolver como programador.
 - Atualmente estudando NodeJS
-- Desenvolvendo diversos projetos que acrescentem na minha jornada como Dev.
+- Desenvolvendo diversos projetos que acrescentarão na minha jornada como Dev.
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <br>
