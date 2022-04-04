@@ -1,9 +1,8 @@
 ### Oi, Meu nome é Igor.
 
-
 - Focado em me desenvolver como programador.
 - Atualmente estudando NodeJS
-- Desenvolvendo diversos projetos 
+- Desenvolvendo diversos projetos que acrescentem na minha jornada como Dev.
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <br>
@@ -23,6 +22,7 @@
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img src="https://img.icons8.com/officel/48/ffffff/php-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
   </div>
   
