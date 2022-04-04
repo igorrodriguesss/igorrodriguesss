@@ -15,16 +15,17 @@
 <br>
 
 
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/ffffff/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/officel/48/ffffff/php-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://img.icons8.com/stickers/100/000000/api.png"/>
-<img src="https://img.icons8.com/stickers/100/000000/pull-request.png"/>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/ffffff/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/officel/48/ffffff/php-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/stickers/100/000000/api-settings.png"/>
+  <img src="https://img.icons8.com/stickers/100/000000/compare-git.png"/>
+ </div>
   
 
   </div>
