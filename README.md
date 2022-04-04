@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <br>
 
-  <div align="center">
+  <!-- <div align="center"> -->
   <a href="https://github.com/igorrodriguesss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorrodriguesss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrodriguesss&layout=compact&langs_count=7&theme=dracula"/>
@@ -15,7 +15,7 @@
 <br>
 
 
-<div align="center">
+<!-- <div align="center"> -->
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/ffffff/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
