@@ -14,7 +14,7 @@
 </div>
 <br>
 
-<h3> Técnologias </h3>
+<h3> Tecnologias Conhecidas: </h3>
 <!-- <div align="center"> -->
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/ffffff/css3.png"/>
