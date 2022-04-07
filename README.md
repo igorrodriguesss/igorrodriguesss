@@ -1,4 +1,4 @@
-### Oi, Meu nome é Igor.
+<h2> Oi, Meu nome é Igor. </h2>
 
 - Focado em me desenvolver como programador.
 - Atualmente estudando NodeJS
