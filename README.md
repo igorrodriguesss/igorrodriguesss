@@ -4,8 +4,7 @@
 - Atualmente estudando NodeJS
 - Desenvolvendo diversos projetos que acrescentarão na minha jornada como Dev.
 <hr>
-<h2>Principais Projetos 
-  <br>
+<h2>Principais Projetos <br>
   <a href="https://github.com/igorrodriguesss/Toughts"><span>- Toughts</p></span> 
   <a href="https://github.com/igorrodriguesss/sistemaLogin"><span>- sistemaLogin</span></a>
   <hr>
