@@ -6,8 +6,8 @@
 <hr>
 <h2>Principais Projetos 
   <br>
-  <a href="https://github.com/igorrodriguesss/Toughts"><p>- Toughts</p></a> 
-  <a href="https://github.com/igorrodriguesss/sistemaLogin"><p>- sistemaLogin</p></a>
+  <a href="https://github.com/igorrodriguesss/Toughts"><span>- Toughts</p></span> 
+  <a href="https://github.com/igorrodriguesss/sistemaLogin"><span>- sistemaLogin</span></a>
 
   <hr> 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
