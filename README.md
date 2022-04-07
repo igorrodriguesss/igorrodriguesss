@@ -4,10 +4,11 @@
 - Atualmente estudando NodeJS
 - Desenvolvendo diversos projetos que acrescentarão na minha jornada como Dev.
 <hr>
-<h3>Principais Projetos> <br>
-  <p> Toughts </p> 
+<h2>Principais Projetos><br>
+  <p> Toughts</p> 
   <p> sistemaLogin </p>
 
+  <hr> 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <br>
 
