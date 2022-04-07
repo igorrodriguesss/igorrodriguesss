@@ -4,7 +4,7 @@
 - Atualmente estudando NodeJS
 - Desenvolvendo diversos projetos que acrescentarão na minha jornada como Dev.
 <hr>
-<h2>Principais Projetos><br>
+<h2>Principais Projetos 
   <p> Toughts</p> 
   <p> sistemaLogin </p>
 
