@@ -5,8 +5,7 @@
 - Desenvolvendo diversos projetos que acrescentarão na minha jornada como Dev.
 <hr>
 <h2>Principais Projetos</h2>
-  <br>
-  <a style="font-size: 10px;" href="https://github.com/igorrodriguesss/Toughts">Toughts</a>
+  <a style="font-size: 20px;" href="https://github.com/igorrodriguesss/Toughts">Toughts</a>
   <br>
   <a href="https://github.com/igorrodriguesss/wpcevents">WPCEvents</a>
   <hr>
