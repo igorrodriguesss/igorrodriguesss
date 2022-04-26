@@ -5,8 +5,8 @@
 - Desenvolvendo diversos projetos que acrescentarão na minha jornada como Dev.
 <hr>
 <h2>Principais Projetos <br>
-  <a href="https://github.com/igorrodriguesss/Toughts"><span>- Toughts</p></span> 
-  <a href="https://github.com/igorrodriguesss/sistemaLogin"><span>- sistemaLogin</span></a>
+  <a href="https://github.com/igorrodriguesss/Toughts">Toughts</p>
+  <a href="https://github.com/igorrodriguesss/sistemaLogin">sistemaLogin</a>
   <hr>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <br>
