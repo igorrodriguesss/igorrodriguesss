@@ -1,8 +1,8 @@
 <h2> Oi, Meu nome é Igor. </h2>
 
-- Focado em me desenvolver como programador.
-- Atualmente estudando NodeJS
-- Desenvolvendo diversos projetos que acrescentarão na minha jornada como Dev.
+- Focado em desenvolver minha carreira em Devops.
+- Atualmente estudando Docker e Kubernetes
+- Desenvolvendo diversos projetos que acrescentarão na minha jornada.
 <hr>
 <h2>Principais Projetos</h2>
   <a style="font-size: 50px;" href="https://github.com/igorrodriguesss/Toughts">Toughts</a>
