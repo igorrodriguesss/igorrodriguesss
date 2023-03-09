@@ -10,12 +10,7 @@
   <a href="https://github.com/igorrodriguesss/wpcevents">WPCEvents</a>
   <hr>
   <br>
-  <a href="[https://github.com/igorrodriguesss/wpcevents](https://github.com/igorrodriguesss/Descomplicando-Docker/tree/main/composes/compose-5)">Docker App</a>
-  <hr>
-  
-  
-  
-  
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <br>
 
