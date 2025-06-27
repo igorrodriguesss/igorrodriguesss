@@ -28,7 +28,7 @@
   <img src="https://img.icons8.com/color/48/ffffff/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/officel/48/ffffff/php-logo.png"/>
+  <img src="[https://img.icons8.com/officel/48/ffffff/php-logo.png](https://icons8.com/icon/cvzmaEA4kC0o/kubernetes)"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/stickers/48/000000/api-settings.png"/>
