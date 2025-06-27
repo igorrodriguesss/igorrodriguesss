@@ -25,10 +25,8 @@
 <h3> Tecnologias Conhecidas: </h3>
 <!-- <div align="center"> -->
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/ffffff/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img src="https://www.flaticon.com/free-icon/docker_919853?term=docker&page=1&position=1&origin=search&related_id=919853"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/stickers/48/000000/api-settings.png"/>
