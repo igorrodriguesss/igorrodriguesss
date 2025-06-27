@@ -1,7 +1,7 @@
 <h2> Oi, Meu nome é Igor. </h2>
 
 - Focado em desenvolver minha carreira em Devops.
-- Atualmente estudando Docker e Kubernetes
+- Atualmente estudando Docker, Kubernetes e AWS
 - Desenvolvendo diversos projetos que acrescentarão na minha jornada.
 <hr>
 <!-- 
