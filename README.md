@@ -4,13 +4,14 @@
 - Atualmente estudando Docker e Kubernetes
 - Desenvolvendo diversos projetos que acrescentarão na minha jornada.
 <hr>
+<!-- 
 <h2>Principais Projetos</h2>
   <a style="font-size: 50px;" href="https://github.com/igorrodriguesss/Toughts">Toughts</a>
   <br>
   <a href="https://github.com/igorrodriguesss/wpcevents">WPCEvents</a>
   <hr>
   <br>
-
+--> 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <br>
 
