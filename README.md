@@ -1,51 +1,45 @@
-<h2> Oi, Meu nome é Igor. </h2>
+#  Olá, eu sou o Igor.
+<p align="left">
+  Profissional de TI com experiência em EDI, atualmente em transição para a área de DevOps. Tenho direcionado meus estudos para ferramentas e práticas modernas como Docker, Kubernetes, Terraform e AWS, com o objetivo de transformar cada aprendizado em projetos práticos que consolidem minha evolução. <br>
+  Estou comprometido em aplicar a mentalidade DevOps — com foco em automação, escalabilidade e integração contínua — e construir soluções eficientes que agreguem valor real ao ambiente de desenvolvimento e operação.
+</p>
 
-- Focado em desenvolver minha carreira em Devops.
-- Atualmente estudando Docker, Kubernetes e AWS
-- Desenvolvendo diversos projetos que acrescentarão na minha jornada.
-<hr>
-<!-- 
-<h2>Principais Projetos</h2>
-  <a style="font-size: 50px;" href="https://github.com/igorrodriguesss/Toughts">Toughts</a>
-  <br>
-  <a href="https://github.com/igorrodriguesss/wpcevents">WPCEvents</a>
-  <hr>
-  <br>
---> 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+## Sobre mim
+
+- 🖥️ Analista de Sistemas pela Universidade Municipal de São Caetano do Sul.
+- 📚 Estudando Kubernetes, AWS, Terraform e CI/CD.
+- 📚 Em breve irei comecar os estudos para certificação AWS Cloud Practitioner 
+
+---
+
+## Tecnologias e linguagens 💻
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,ansible,terraform,git,githubactions)](https://skillicons.dev)
+
+### 🛠️ Linguagem de Programação e ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=python,flask,postman,mongodb,mysql)](https://skillicons.dev)
+
+<p align="left">
+
+</p>
+
+<p align="left">
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn!
+</p>
+
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=igorr2693@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/igor-rodrigues-376786180/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
 <br>
 
-  <!-- <div align="center"> -->
-  <a href="https://github.com/igorrodriguesss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorrodriguesss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrodriguesss&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<br>
+## Projetos Devops
 
-<h3> Tecnologias Conhecidas: </h3>
-<!-- <div align="center"> -->
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/stickers/48/000000/api-settings.png"/>
-  <img src="https://img.icons8.com/stickers/48/000000/compare-git.png"/>
- </div>
-  
-
-  </div>
-  
- <br>
- <br>
-  
- 
-<div> 
-
-
-  <a href = "mailto:igorr2693@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-rodrigues-376786180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
- 
-</div>
+<p>Alguns dos meus projetos utilizando ferramentas Devops</p>
+<p align="left">
+<a href="https://github.com/igorrodriguesss/restapi-flask" title="RESTAPI-FLASK">RESTAPI-FLASK</a>
+  <br>
+  <a href="https://github.com/igorrodriguesss/Terraform-para-aws" title="terraform-para-aws">Terraform para AWS</a>
+</p>
