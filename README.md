@@ -10,7 +10,6 @@
 - 📚 Estudando Kubernetes, AWS, Terraform e CI/CD.
 - 📚 Em breve irei comecar os estudos para certificação AWS Cloud Practitioner 
 
----
 
 ## Tecnologias e linguagens 💻
 
@@ -33,7 +32,6 @@
   <a href="https://www.linkedin.com/in/igor-rodrigues-376786180/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
-<br>
 
 ## Projetos Devops
 
