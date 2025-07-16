@@ -15,7 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,ansible,terraform,git,githubactions)](https://skillicons.dev)
 
-### 🛠️ Linguagem de Programação e ferramentas de desenvolvimento
+### Linguagem de Programação e ferramentas de desenvolvimento 🛠️
 [![My Skills](https://skillicons.dev/icons?i=python,flask,postman,mongodb,mysql)](https://skillicons.dev)
 
 <p align="left">
