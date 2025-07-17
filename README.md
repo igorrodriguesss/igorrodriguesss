@@ -22,6 +22,17 @@
 
 </p>
 
+
+
+## Projetos Devops
+
+<p>Alguns dos meus projetos utilizando ferramentas Devops</p>
+<p align="left">
+<a href="https://github.com/igorrodriguesss/restapi-flask" title="RESTAPI-FLASK">RESTAPI-FLASK</a>
+  <br>
+  <a href="https://github.com/igorrodriguesss/Terraform-para-aws" title="terraform-para-aws">Terraform para AWS</a>
+</p>
+
 <p align="left">
   Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn!
 </p>
@@ -31,13 +42,4 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/igor-rodrigues-376786180/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-</p>
-
-## Projetos Devops
-
-<p>Alguns dos meus projetos utilizando ferramentas Devops</p>
-<p align="left">
-<a href="https://github.com/igorrodriguesss/restapi-flask" title="RESTAPI-FLASK">RESTAPI-FLASK</a>
-  <br>
-  <a href="https://github.com/igorrodriguesss/Terraform-para-aws" title="terraform-para-aws">Terraform para AWS</a>
 </p>
