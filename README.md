@@ -31,6 +31,8 @@
 <a href="https://github.com/igorrodriguesss/restapi-flask" title="RESTAPI-FLASK">RESTAPI-FLASK</a>
   <br>
   <a href="https://github.com/igorrodriguesss/Terraform-para-aws" title="terraform-para-aws">Terraform para AWS</a>
+  <br>
+  <a href="https://github.com/igorrodriguesss/bia-dev" title="bia">AWS & IA</a>
 </p>
 
 <p align="left">
